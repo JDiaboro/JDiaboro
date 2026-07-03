@@ -5,4 +5,9 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/-xESPO9_qpEAAAAC/diavolo-doppio.gif" alt="banner" width="800">
 </p>
-<h2 align="center"> 🍓🍓🍓🍓</h2>
+<h2 align="center"> 🍓王の王への栄光。</h2>
+
+⤿  𝒴𝑜𝓊 𝒸𝒶𝓃 𝒸𝒶𝓁𝓁 𝓂𝑒 𝐵𝑜𝓈𝓈. 𝐼 𝒹𝑜𝓃'𝓉 𝓂𝒾𝓃𝒹 𝒾𝒻 𝓎𝑜𝓊 𝑔𝒾𝓋𝑒 𝓂𝑒 𝒶 𝓃𝒾𝒸𝓀𝓃𝒶𝓂𝑒
+- **I usually sit on the Russian #1 server. Sometimes active, but most of the time AFK.**
+
+
