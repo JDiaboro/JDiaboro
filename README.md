@@ -14,7 +14,7 @@
   <a href="https://t.me/NonnHumaNn"><img src="https://img.shields.io/badge/Telegram-50872e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.com/users/fleurdiemedizin"><img src="https://img.shields.io/badge/Discord-99236a?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://steamcommunity.com/profiles/76561199624960992/"><img src="https://img.shields.io/badge/Steam-e3598b?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-  <a href="https://ваш-сайт.atabook.org"><img src="https://img.shields.io/badge/Atabook-ffc0cb?style=for-the-badge&logo=book&logoColor=white" alt="Atabook"></a>
+  <a href="https://boss.atabook.org/"><img src="https://img.shields.io/badge/Atabook-ffc0cb?style=for-the-badge&logo=book&logoColor=white" alt="Atabook"></a>
 </p>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/9f/95/2c/9f952c8dcb44daf5bf3215f670234761.jpg" alt="banner" width="800">
